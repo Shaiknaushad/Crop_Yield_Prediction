@@ -93,7 +93,3 @@ This project is open source under the MIT License.
 
 **Made with ❤️ for smarter farming**
 
-```
-
-Would you like me to also generate a sample `requirements.txt`?
-```
