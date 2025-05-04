@@ -28,9 +28,7 @@ A machine learning web application that predicts crop yield based on various env
 
 Crop\_Yield\_Prediction/
 ├── app.py                  # Main Streamlit app
-├── utils.py                # Utility functions
-├── models.py               # Model training and prediction
-├── data/                   # Sample datasets
+├── dataset.csv             # Sample Dataset
 ├── requirements.txt        # Python dependencies
 └── README.md               # Project documentation
 
